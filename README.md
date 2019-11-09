@@ -1,3 +1,5 @@
+#This is one of my first codes written in Anaconda Python; Spider seems easier. 
+
 print "Magic-5 Ball:"
 elif answers == 1:
 print "surely"
